@@ -1,0 +1,23 @@
+{
+  "name": "telos-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getAccount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylanhurt/telos-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylanhurt/telos-tutorial/issues"
+  },
+  "homepage": "https://github.com/kylanhurt/telos-tutorial#readme",
+  "dependencies": {
+    "eosjs": "^20.0.3",
+    "node-fetch": "^2.6.0"
+  }
+}
